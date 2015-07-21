@@ -3,7 +3,6 @@ title: 'Reproducible Research: Peer Assessment 2'
 output:
   html_document:
     keep_md: yes
-  pdf_document: default
 ---
 
 ## Impact of Severe Weather Events on Public Health and Economy in the United States
